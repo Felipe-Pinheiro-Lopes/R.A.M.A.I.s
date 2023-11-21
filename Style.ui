@@ -1479,8 +1479,8 @@ color: rgb(237, 245, 252);</string>
                         <rect>
                          <x>0</x>
                          <y>0</y>
-                         <width>160</width>
-                         <height>168</height>
+                         <width>100</width>
+                         <height>81</height>
                         </rect>
                        </property>
                        <attribute name="label">
@@ -1577,8 +1577,8 @@ border-color: none;</string>
                         <rect>
                          <x>0</x>
                          <y>0</y>
-                         <width>160</width>
-                         <height>168</height>
+                         <width>100</width>
+                         <height>81</height>
                         </rect>
                        </property>
                        <attribute name="label">
@@ -3694,7 +3694,7 @@ border-color: rgb(240, 168, 104);</string>
              <string notr="true">border: none;</string>
             </property>
             <property name="text">
-             <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;right&quot;&gt;Copyright 2023 - All Rights Reserved - Felipe P. Lopes&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+             <string/>
             </property>
            </widget>
           </item>
